@@ -36,15 +36,14 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
-      <link href="https://fonts.googleapis.com/css?family=Raleway:400,800&display=swap" rel="stylesheet"> 
-       <link rel="stylesheet" href="style.css" /> 
-      <link rel="stylesheet" href="responsive.css" /><?php wp_head(); ?> <!—very important that this is added-->
+      <link href="https://fonts.googleapis.com/css?family=Raleway:400,800&display=swap" rel="stylesheet">
+      <?php wp_head(); ?> <!—very important that this is added-->
     </head>
     
     
 <body>
       
-      <header class="container-fluid herobg">
+<header class="container-fluid herobg">
           
       <nav class="navbar">
   <div class="container-fluid">
@@ -74,4 +73,4 @@
         <h1> Games Design For The Future</h1>
         </div>
           
-      </header>
+</header>
