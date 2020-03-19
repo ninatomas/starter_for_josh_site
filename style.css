@@ -55,7 +55,7 @@ color:darkorange;
     background-color: white;
 }
 .herobg {
-    background: url("http://206.189.45.97/~mesh22/sub/wp-content/themes/starter_for_josh_site/images/header.jpg") no-repeat center center;
+    background: url("images/header.jpg") no-repeat center center;
     background-size: cover;
     }
 .herobg h1{
