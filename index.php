@@ -22,7 +22,7 @@
               </div>
          
       <div class="col-md-4 article-cent"> 
-          <img class="img-responsive" alt="portrait" src="http://206.189.45.97/~mesh1/wp-content/themes/josh_theme_wp_fiinished/images/ portrait.jpg">
+          <img class="img-responsive" alt="portrait" src="http://206.189.45.97/~mesh22/sub/wp-content/themes/starter_for_josh_site/images/game.jpg">
           <h4> A PORTRAIT</h4>
           <p class="date"> 12 December 2020</p>
           
@@ -32,7 +32,7 @@
       </div>  
               
           <div class="col-md-4 article-cent"> 
-          <img class="img-responsive" alt="portrait" src="http://206.189.45.97/~mesh1/wp-content/themes/josh_theme_wp_fiinished/images/model.jpg">
+          <img class="img-responsive" alt="portrait" src="http://206.189.45.97/~mesh22/sub/wp-content/themes/starter_for_josh_site/images/game.jpg">
           <h4> A PORTRAIT</h4>
           <p class="date"> 12 December 2020</p>
           
@@ -42,7 +42,7 @@
       </div>
               
           <div class="col-md-4 article-cent"> 
-          <img class="img-responsive" alt="portrait" src="http://206.189.45.97/~mesh1/wp-content/themes/josh_theme_wp_fiinished/images/ game.jpg">
+          <img class="img-responsive" alt="portrait" src="http://206.189.45.97/~mesh22/sub/wp-content/themes/starter_for_josh_site/images/game.jpg">
           <h4> A PORTRAIT</h4>
           <p class="date"> 12 December 2020</p>
           
