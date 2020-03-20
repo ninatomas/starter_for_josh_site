@@ -53,7 +53,7 @@ wp_reset_query();?>
       </div>
               
           <div class="col-md-4 article-cent"> 
-          <img class="img-responsive" alt="portrait" src="http://206.189.45.97/~mesh22/sub/wp-content/themes/starter_for_josh_site/images/games-design">
+          <img class="img-responsive" alt="portrait" src="http://206.189.45.97/~mesh22/sub/wp-content/themes/starter_for_josh_site/images/games-design.jpg">
           <h4> A PORTRAIT</h4>
           <p class="date"> 12 December 2020</p>
           
