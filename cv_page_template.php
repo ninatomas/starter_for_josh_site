@@ -1,6 +1,6 @@
 <?php
     /*
-    Template Name: CV
+    Template Name:CV
     */
 ?>
 <?php include (TEMPLATEPATH . '/small_header.php');  /* Tells WordPress to include the smaller header header.php */ ?>
