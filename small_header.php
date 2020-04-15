@@ -29,7 +29,6 @@
                          echo ' - page '. $paged; }
           ?>
 </title>
-
     <!-- Bootstrap -->
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -66,6 +65,5 @@
   </div>
 </nav> 
               <div class="container">
-              <h1> Games Design for the future</h1>
           </div>
       </header>
