@@ -45,11 +45,11 @@ color:darkorange;
 .navbar-toggle .icon-bar {
     background-color: white;
 }
-.herobg {
+.herobg{
     background: url("images/header.jpg") no-repeat center center;
     background-size: cover;
     }
-.small_herobg {
+.small_herobg{
     width: 100%;
     background: url("images/small_header.jpg") no-repeat center center;
     background-size: cover;
